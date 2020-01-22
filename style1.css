@@ -1,0 +1,30 @@
+table, th, td {
+	border: 3px solid black;
+  }
+
+body{
+	background-color: green;
+}
+
+table{
+	border-collapse: collapse;
+	
+}
+
+.black{
+
+	background-color:black; 
+	color: black;
+	border: 1px black;
+	height: 50px;
+	width: 50px;
+	
+}
+
+.wit{
+	background-color:#fff;
+	color: white;
+	border: 1px black;
+	height: 50px;
+	width: 50px;
+}
